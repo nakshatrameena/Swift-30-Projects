@@ -23,7 +23,7 @@ I am an iOS developer and currently using Swift.
 
 **This repo does not merely follow tutorials, I re-build them with better code style and architecture design.**
 
-For code style, I strictly follow [raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide);
+For code style, I strictly follow [Swift Style Guide](https://github.com/nakshatrameena/swift-style-guide);
 
 For developers, I have a README file and screenshots for every single app in this repo, all details could be found there.
 
@@ -34,12 +34,12 @@ I will maintain the project with latest syntax and most advanced code style. Mor
 Also, **unit tests** will be added to ensure the quality of the codebase.
 
 ## Contributors
-[chenluffy](https://github.com/ChengLuffy), [LargeShrimp](https://github.com/LargeShrimp) and [azureland](https://github.com/azureland), thank you for your assistance in optimizing the repo.
+[NAKSHATRA MEENA](https://github.com/nakshatrameena), thank you for your assistance in optimizing the repo.
 
 ## Reach me ##
 
-Twitter: [@guyindaozhang](https://twitter.com/guyindaozhang)<br />
-Weibo: [@故胤道长](http://weibo.com/soapyigu)
+Twitter: [@nakshatrameena](https://twitter.com/nakshatrameena/)<br />
+Weibo: [NAKSHATRA MEENA](http://weibo.com/nakshatrameena)
 
 # Swift-30-Projects
 # Swift-30-Projects
